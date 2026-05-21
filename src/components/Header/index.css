@@ -1,0 +1,56 @@
+.nav-container {
+  background-color: #272727;
+  height: 10vh;
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.website-logo-img {
+  width: 150px;
+  margin-left: 15px;
+}
+
+.nav-item {
+  list-style-type: none;
+  display: flex;
+  align-items: center;
+}
+
+.nav-link {
+  text-decoration: none;
+}
+
+.homes-heading {
+  color: #f8fafc;
+  font-size: 15px;
+  font-family: 'Roboto';
+  font-weight: 600;
+  margin-right: 18px;
+}
+
+.jobs-heading {
+  color: #f8fafc;
+  font-size: 15px;
+  font-family: 'Roboto';
+  font-weight: 600;
+}
+
+.logout-btn {
+  background-color: #6366f1;
+  color: #f8fafc;
+  font-size: 10px;
+  font-weight: 700;
+  font-family: 'Roboto';
+  border-radius: 5px;
+  border-width: 0px;
+  padding: 10px;
+  margin-right: 30px;
+  font-weight: 600;
+  width: 100%;
+}
+
+.logout-button {
+  list-style-type: none;
+}
